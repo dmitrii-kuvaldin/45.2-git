@@ -2,6 +2,10 @@ body {
   margin: 0;
 }
 
+a {
+  color: black;
+}
+
 h1 {
-  color: darkorange;
+  color: rgb(0, 179, 255);
 }
