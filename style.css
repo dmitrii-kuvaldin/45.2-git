@@ -14,3 +14,8 @@ p {
   color: darkred;
 }
 
+main {
+  display: flex;
+  flex-direction: column;
+}
+
